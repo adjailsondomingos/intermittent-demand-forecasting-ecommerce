@@ -1,0 +1,116 @@
+{
+  "parametros": {
+    "p_venda": 0.25,
+    "tamanho_venda": "uniforme discreta {1, ..., 7}",
+    "demanda_media_teorica": 1.0,
+    "alpha": 0.2,
+    "fator_correcao_sba": 0.9,
+    "n_periodos": 2000000,
+    "periodos_aquecimento": 1000,
+    "semente_principal": 20260829,
+    "sementes_robustez": [
+      1,
+      7,
+      42,
+      12345,
+      99
+    ]
+  },
+  "principal": {
+    "semente": 20260829,
+    "previsao_media_croston": 1.082317,
+    "vies_relativo_croston_pct": 8.2317,
+    "previsao_media_sba": 0.974085,
+    "vies_relativo_sba_pct": -2.5915
+  },
+  "reducao_magnitude_vies_pct": 68.52,
+  "robustez": [
+    {
+      "semente": 1,
+      "previsao_media_croston": 1.083941,
+      "vies_relativo_croston_pct": 8.3941,
+      "previsao_media_sba": 0.975547,
+      "vies_relativo_sba_pct": -2.4453
+    },
+    {
+      "semente": 7,
+      "previsao_media_croston": 1.084501,
+      "vies_relativo_croston_pct": 8.4501,
+      "previsao_media_sba": 0.976051,
+      "vies_relativo_sba_pct": -2.3949
+    },
+    {
+      "semente": 42,
+      "previsao_media_croston": 1.083388,
+      "vies_relativo_croston_pct": 8.3388,
+      "previsao_media_sba": 0.975049,
+      "vies_relativo_sba_pct": -2.4951
+    },
+    {
+      "semente": 12345,
+      "previsao_media_croston": 1.080945,
+      "vies_relativo_croston_pct": 8.0945,
+      "previsao_media_sba": 0.97285,
+      "vies_relativo_sba_pct": -2.715
+    },
+    {
+      "semente": 99,
+      "previsao_media_croston": 1.081649,
+      "vies_relativo_croston_pct": 8.1649,
+      "previsao_media_sba": 0.973484,
+      "vies_relativo_sba_pct": -2.6516
+    }
+  ],
+  "convergencia_semente_principal": [
+    {
+      "periodos": 2000,
+      "previsao_media_croston": 1.071292,
+      "previsao_media_sba": 0.964163
+    },
+    {
+      "periodos": 5000,
+      "previsao_media_croston": 1.060955,
+      "previsao_media_sba": 0.954859
+    },
+    {
+      "periodos": 10000,
+      "previsao_media_croston": 1.07575,
+      "previsao_media_sba": 0.968175
+    },
+    {
+      "periodos": 20000,
+      "previsao_media_croston": 1.069835,
+      "previsao_media_sba": 0.962851
+    },
+    {
+      "periodos": 50000,
+      "previsao_media_croston": 1.072957,
+      "previsao_media_sba": 0.965662
+    },
+    {
+      "periodos": 100000,
+      "previsao_media_croston": 1.075414,
+      "previsao_media_sba": 0.967872
+    },
+    {
+      "periodos": 200000,
+      "previsao_media_croston": 1.077441,
+      "previsao_media_sba": 0.969697
+    },
+    {
+      "periodos": 500000,
+      "previsao_media_croston": 1.079047,
+      "previsao_media_sba": 0.971143
+    },
+    {
+      "periodos": 1000000,
+      "previsao_media_croston": 1.080991,
+      "previsao_media_sba": 0.972892
+    },
+    {
+      "periodos": 2000000,
+      "previsao_media_croston": 1.082317,
+      "previsao_media_sba": 0.974085
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Saidas de execucao do pipeline (geradas localmente)
+outputs/
+execucoes/
+src/
+pipeline_colab.py
+
+# Tabelas De/Para da anonimizacao: nunca versionar
+privado/
+de_para*/
+de_para_*.csv
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini

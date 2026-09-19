@@ -1,0 +1,7 @@
+tipo,semente,previsao_media_croston,vies_relativo_croston_pct,previsao_media_sba,vies_relativo_sba_pct
+principal,20260829,1.082317,8.2317,0.974085,-2.5915
+robustez,1,1.083941,8.3941,0.975547,-2.4453
+robustez,7,1.084501,8.4501,0.976051,-2.3949
+robustez,42,1.083388,8.3388,0.975049,-2.4951
+robustez,12345,1.080945,8.0945,0.97285,-2.715
+robustez,99,1.081649,8.1649,0.973484,-2.6516
