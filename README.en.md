@@ -1,5 +1,7 @@
 # Intermittent Demand Forecasting for Long-Tail Products in Brazilian E-Commerce
 
+[![DOI](https://zenodo.org/badge/1336365989.svg)](https://doi.org/10.5281/zenodo.22847653)
+
 *(Versão em português: [README.md](README.md))*
 
 Source code and supporting data for the capstone thesis "Previsão de demanda intermitente de produtos de cauda longa no comércio eletrônico brasileiro: uma comparação entre modelos de aprendizado de máquina e métodos estatísticos especializados" ("Intermittent demand forecasting for long-tail products in Brazilian e-commerce: a comparison between machine learning models and specialized statistical methods") (MBA in Artificial Intelligence and Big Data, ICMC-USP, 2026).

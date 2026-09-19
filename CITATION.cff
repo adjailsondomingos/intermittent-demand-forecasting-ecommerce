@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: Intermittent demand forecasting for long-tail products in Brazilian e-commerce
+message: If you use this repository, please cite it using the metadata below.
+type: software
+
+authors:
+  - family-names: Domingos
+    given-names: Adjailson
+    orcid: https://orcid.org/0009-0002-6039-9669
+
+abstract: >
+  Reproducibility package associated with the MBA monograph
+  "Intermittent demand forecasting for long-tail products in Brazilian
+  e-commerce: a comparison between machine learning models and specialized
+  statistical methods".
+
+keywords:
+  - demand forecasting
+  - intermittent demand
+  - long-tail products
+  - machine learning
+  - random forest
+  - xgboost
+  - SBA
+  - TSB
+  - ADIDA
+  - e-commerce
+
+doi: 10.5281/zenodo.22847653
+
+version: 1.0.0
+date-released: 2026-09-19
+
+repository-code: https://github.com/adjailsondomingos/intermittent-demand-forecasting-ecommerce
+
+license: MIT

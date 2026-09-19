@@ -1,5 +1,7 @@
 # Previsão de Demanda Intermitente de Produtos de Cauda Longa no Comércio Eletrônico Brasileiro
 
+[![DOI](https://zenodo.org/badge/1336365989.svg)](https://doi.org/10.5281/zenodo.22847653)
+
 *(English version: [README.en.md](README.en.md))*
 
 Código-fonte e dados de apoio do trabalho de conclusão de curso "Previsão de demanda intermitente de produtos de cauda longa no comércio eletrônico brasileiro: uma comparação entre modelos de aprendizado de máquina e métodos estatísticos especializados" (MBA em Inteligência Artificial e Big Data, ICMC-USP, 2026).
